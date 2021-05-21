@@ -1,0 +1,67 @@
+﻿  Main.cpp
+c:\users\maken\onedrive\desktop\c++ side projects\zodiac\zodiac\zodiac.h(40): error C2059: syntax error: 'string'
+c:\users\maken\onedrive\desktop\c++ side projects\zodiac\zodiac\zodiac.h(40): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+c:\users\maken\onedrive\desktop\c++ side projects\zodiac\zodiac\zodiac.h(40): warning C4183: 'system': missing return type; assumed to be a member function returning 'int'
+c:\users\maken\onedrive\desktop\c++ side projects\zodiac\zodiac\zodiac.h(43): error C2143: syntax error: missing ';' before '<<'
+c:\users\maken\onedrive\desktop\c++ side projects\zodiac\zodiac\zodiac.h(43): error C2886: 'std::cout': symbol cannot be used in a member using-declaration
+  c:\program files (x86)\microsoft visual studio\2017\community\vc\tools\msvc\14.16.27023\include\iostream(29): note: see declaration of 'std::cout'
+c:\users\maken\onedrive\desktop\c++ side projects\zodiac\zodiac\zodiac.h(43): error C2238: unexpected token(s) preceding ';'
+c:\users\maken\onedrive\desktop\c++ side projects\zodiac\zodiac\zodiac.h(46): error C2143: syntax error: missing ';' before '<<'
+c:\users\maken\onedrive\desktop\c++ side projects\zodiac\zodiac\zodiac.h(46): error C2886: 'std::cout': symbol cannot be used in a member using-declaration
+  c:\program files (x86)\microsoft visual studio\2017\community\vc\tools\msvc\14.16.27023\include\iostream(29): note: see declaration of 'std::cout'
+c:\users\maken\onedrive\desktop\c++ side projects\zodiac\zodiac\zodiac.h(46): error C2238: unexpected token(s) preceding ';'
+c:\users\maken\onedrive\desktop\c++ side projects\zodiac\zodiac\zodiac.h(47): error C2061: syntax error: identifier 'cin'
+c:\users\maken\onedrive\desktop\c++ side projects\zodiac\zodiac\zodiac.h(47): error C2838: 'getline': illegal qualified name in member declaration
+c:\users\maken\onedrive\desktop\c++ side projects\zodiac\zodiac\zodiac.h(49): error C2143: syntax error: missing ';' before '<<'
+c:\users\maken\onedrive\desktop\c++ side projects\zodiac\zodiac\zodiac.h(49): error C2886: 'std::cout': symbol cannot be used in a member using-declaration
+  c:\program files (x86)\microsoft visual studio\2017\community\vc\tools\msvc\14.16.27023\include\iostream(29): note: see declaration of 'std::cout'
+c:\users\maken\onedrive\desktop\c++ side projects\zodiac\zodiac\zodiac.h(49): error C2238: unexpected token(s) preceding ';'
+c:\users\maken\onedrive\desktop\c++ side projects\zodiac\zodiac\zodiac.h(51): error C2143: syntax error: missing ';' before '<<'
+c:\users\maken\onedrive\desktop\c++ side projects\zodiac\zodiac\zodiac.h(51): error C2886: 'std::cout': symbol cannot be used in a member using-declaration
+  c:\program files (x86)\microsoft visual studio\2017\community\vc\tools\msvc\14.16.27023\include\iostream(29): note: see declaration of 'std::cout'
+c:\users\maken\onedrive\desktop\c++ side projects\zodiac\zodiac\zodiac.h(51): error C2238: unexpected token(s) preceding ';'
+c:\users\maken\onedrive\desktop\c++ side projects\zodiac\zodiac\zodiac.h(52): error C2061: syntax error: identifier 'cin'
+c:\users\maken\onedrive\desktop\c++ side projects\zodiac\zodiac\zodiac.h(52): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+c:\users\maken\onedrive\desktop\c++ side projects\zodiac\zodiac\zodiac.h(52): warning C4183: 'getline': missing return type; assumed to be a member function returning 'int'
+c:\users\maken\onedrive\desktop\c++ side projects\zodiac\zodiac\zodiac.h(54): error C2143: syntax error: missing ';' before '<<'
+c:\users\maken\onedrive\desktop\c++ side projects\zodiac\zodiac\zodiac.h(54): error C2886: 'std::cout': symbol cannot be used in a member using-declaration
+  c:\program files (x86)\microsoft visual studio\2017\community\vc\tools\msvc\14.16.27023\include\iostream(29): note: see declaration of 'std::cout'
+c:\users\maken\onedrive\desktop\c++ side projects\zodiac\zodiac\zodiac.h(54): error C2238: unexpected token(s) preceding ';'
+c:\users\maken\onedrive\desktop\c++ side projects\zodiac\zodiac\zodiac.h(55): error C2143: syntax error: missing ';' before '>>'
+c:\users\maken\onedrive\desktop\c++ side projects\zodiac\zodiac\zodiac.h(55): error C2886: 'std::cin': symbol cannot be used in a member using-declaration
+  c:\program files (x86)\microsoft visual studio\2017\community\vc\tools\msvc\14.16.27023\include\iostream(28): note: see declaration of 'std::cin'
+c:\users\maken\onedrive\desktop\c++ side projects\zodiac\zodiac\zodiac.h(55): error C2238: unexpected token(s) preceding ';'
+  Zodiac.cpp
+c:\users\maken\onedrive\desktop\c++ side projects\zodiac\zodiac\zodiac.h(40): error C2059: syntax error: 'string'
+c:\users\maken\onedrive\desktop\c++ side projects\zodiac\zodiac\zodiac.h(40): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+c:\users\maken\onedrive\desktop\c++ side projects\zodiac\zodiac\zodiac.h(40): warning C4183: 'system': missing return type; assumed to be a member function returning 'int'
+c:\users\maken\onedrive\desktop\c++ side projects\zodiac\zodiac\zodiac.h(43): error C2143: syntax error: missing ';' before '<<'
+c:\users\maken\onedrive\desktop\c++ side projects\zodiac\zodiac\zodiac.h(43): error C2886: 'std::cout': symbol cannot be used in a member using-declaration
+  c:\program files (x86)\microsoft visual studio\2017\community\vc\tools\msvc\14.16.27023\include\iostream(29): note: see declaration of 'std::cout'
+c:\users\maken\onedrive\desktop\c++ side projects\zodiac\zodiac\zodiac.h(43): error C2238: unexpected token(s) preceding ';'
+c:\users\maken\onedrive\desktop\c++ side projects\zodiac\zodiac\zodiac.h(46): error C2143: syntax error: missing ';' before '<<'
+c:\users\maken\onedrive\desktop\c++ side projects\zodiac\zodiac\zodiac.h(46): error C2886: 'std::cout': symbol cannot be used in a member using-declaration
+  c:\program files (x86)\microsoft visual studio\2017\community\vc\tools\msvc\14.16.27023\include\iostream(29): note: see declaration of 'std::cout'
+c:\users\maken\onedrive\desktop\c++ side projects\zodiac\zodiac\zodiac.h(46): error C2238: unexpected token(s) preceding ';'
+c:\users\maken\onedrive\desktop\c++ side projects\zodiac\zodiac\zodiac.h(47): error C2061: syntax error: identifier 'cin'
+c:\users\maken\onedrive\desktop\c++ side projects\zodiac\zodiac\zodiac.h(47): error C2838: 'getline': illegal qualified name in member declaration
+c:\users\maken\onedrive\desktop\c++ side projects\zodiac\zodiac\zodiac.h(49): error C2143: syntax error: missing ';' before '<<'
+c:\users\maken\onedrive\desktop\c++ side projects\zodiac\zodiac\zodiac.h(49): error C2886: 'std::cout': symbol cannot be used in a member using-declaration
+  c:\program files (x86)\microsoft visual studio\2017\community\vc\tools\msvc\14.16.27023\include\iostream(29): note: see declaration of 'std::cout'
+c:\users\maken\onedrive\desktop\c++ side projects\zodiac\zodiac\zodiac.h(49): error C2238: unexpected token(s) preceding ';'
+c:\users\maken\onedrive\desktop\c++ side projects\zodiac\zodiac\zodiac.h(51): error C2143: syntax error: missing ';' before '<<'
+c:\users\maken\onedrive\desktop\c++ side projects\zodiac\zodiac\zodiac.h(51): error C2886: 'std::cout': symbol cannot be used in a member using-declaration
+  c:\program files (x86)\microsoft visual studio\2017\community\vc\tools\msvc\14.16.27023\include\iostream(29): note: see declaration of 'std::cout'
+c:\users\maken\onedrive\desktop\c++ side projects\zodiac\zodiac\zodiac.h(51): error C2238: unexpected token(s) preceding ';'
+c:\users\maken\onedrive\desktop\c++ side projects\zodiac\zodiac\zodiac.h(52): error C2061: syntax error: identifier 'cin'
+c:\users\maken\onedrive\desktop\c++ side projects\zodiac\zodiac\zodiac.h(52): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+c:\users\maken\onedrive\desktop\c++ side projects\zodiac\zodiac\zodiac.h(52): warning C4183: 'getline': missing return type; assumed to be a member function returning 'int'
+c:\users\maken\onedrive\desktop\c++ side projects\zodiac\zodiac\zodiac.h(54): error C2143: syntax error: missing ';' before '<<'
+c:\users\maken\onedrive\desktop\c++ side projects\zodiac\zodiac\zodiac.h(54): error C2886: 'std::cout': symbol cannot be used in a member using-declaration
+  c:\program files (x86)\microsoft visual studio\2017\community\vc\tools\msvc\14.16.27023\include\iostream(29): note: see declaration of 'std::cout'
+c:\users\maken\onedrive\desktop\c++ side projects\zodiac\zodiac\zodiac.h(54): error C2238: unexpected token(s) preceding ';'
+c:\users\maken\onedrive\desktop\c++ side projects\zodiac\zodiac\zodiac.h(55): error C2143: syntax error: missing ';' before '>>'
+c:\users\maken\onedrive\desktop\c++ side projects\zodiac\zodiac\zodiac.h(55): error C2886: 'std::cin': symbol cannot be used in a member using-declaration
+  c:\program files (x86)\microsoft visual studio\2017\community\vc\tools\msvc\14.16.27023\include\iostream(28): note: see declaration of 'std::cin'
+c:\users\maken\onedrive\desktop\c++ side projects\zodiac\zodiac\zodiac.h(55): error C2238: unexpected token(s) preceding ';'
+  Generating Code...
