@@ -1,0 +1,7 @@
+﻿  Main.cpp
+C:\Users\maken\OneDrive\Desktop\My Work\C++ Side Projects\Quick Maths\Children Math Game\Main.cpp(36,14): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+C:\Users\maken\OneDrive\Desktop\My Work\C++ Side Projects\Quick Maths\Children Math Game\Main.cpp(70,14): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  RandomNumbers.cpp
+  Generating Code...
+C:\Users\maken\OneDrive\Desktop\My Work\C++ Side Projects\Quick Maths\Children Math Game\Main.cpp(104,14): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  Children Math Game.vcxproj -> C:\Users\maken\OneDrive\Desktop\My Work\C++ Side Projects\Quick Maths\Debug\Children Math Game.exe
