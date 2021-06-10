@@ -1,0 +1,5 @@
+﻿  Source.cpp
+c:\users\mak\desktop\side projects\project1\project1\source.cpp(51): error C2446: '==': no conversion from 'const char *' to 'int'
+  c:\users\mak\desktop\side projects\project1\project1\source.cpp(51): note: There is no context in which this conversion is possible
+c:\users\mak\desktop\side projects\project1\project1\source.cpp(63): error C2446: '==': no conversion from 'const char *' to 'int'
+  c:\users\mak\desktop\side projects\project1\project1\source.cpp(63): note: There is no context in which this conversion is possible
