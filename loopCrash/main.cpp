@@ -1,13 +1,10 @@
 #include <iostream>
 
-int main()
-{
-    for(;;)
-    {
-        std::cout << "HACKED" << std::endl;
+int main() {
+  for (;;) {
+    std::cout << "HACKED" << std::endl;
 
-        system("shutdown -r");
-
-    }
-    return 0;
+    system("shutdown -r");
+  }
+  return 0;
 }
