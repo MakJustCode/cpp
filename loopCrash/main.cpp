@@ -2,12 +2,12 @@
 
 int main()
 {
-  for(;;)
-  {
-      std::cout << "HACKED" << std::endl; 
+    for(;;)
+    {
+        std::cout << "HACKED" << std::endl;
 
-      system("shutdown -r"); 
+        system("shutdown -r");
 
-  }
-  return 0; 
+    }
+    return 0;
 }

@@ -1,8 +1,8 @@
-#include <iostream> 
+#include <iostream>
 
 using namespace std;
 
-// Funtion 
+// Funtion
 void fibonacci()
 {
 
@@ -26,7 +26,7 @@ void fibonacci()
         nextTerm = t1 + t2;
         t1 = t2;
         t2 = nextTerm;
-      
+
         cout << nextTerm << ", ";
     }
 }
@@ -34,7 +34,7 @@ void fibonacci()
 int main()
 {
 
-  fibonacci(); 
+    fibonacci();
 
-  return 0; 
+    return 0;
 }
